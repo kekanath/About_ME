@@ -1,4 +1,4 @@
-# Karthik Ekanthan - Portfolio Website
+# Karthik Ekanathan - Portfolio Website
 
 A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 
